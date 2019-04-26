@@ -1,0 +1,12 @@
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\ClickBaitGenerator.exe
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\ClickBaitGenerator.pdb
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\obj\x86\Debug\ClickBaitGenerator.csprojResolveAssemblyReference.cache
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\obj\x86\Debug\ClickBaitGenerator.exe
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\obj\x86\Debug\ClickBaitGenerator.pdb
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\System.Xml.XPath.dll
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ShadeHero\Documents\Projects\ClickBaitGenerator\ClickBaitGenerator\bin\Debug\System.Xml.XPath.XmlDocument.dll
